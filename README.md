@@ -14,4 +14,6 @@ mosquitto_sub -h 192.168.8.192 -p 1885 -t topic/light -F "%I %t %p" >> mqtt-ligh
 ### How it looks like
 ![env mon](20251212_164827.jpg))  
   
-![env mon](20251212_111833.jpg))
+![env mon](20251212_111833.jpg))  
+
+![env mon](betterwiring.jpg))
